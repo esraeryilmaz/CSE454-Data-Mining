@@ -1,2 +1,1 @@
-# CSE454 Data Mining
- CSE454 Data Mining Course Homeworks
+# CSE454 Data Mining Course Homeworks
